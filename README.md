@@ -1,4 +1,4 @@
-# packetTracking - Plot IPs with GeoIP data using KML format
+# packetsTracking - Plot IPs with GeoIP data using KML format
  
 This Python code reads a network traffic capture file in pcap format (Packet Capture Data) using Wireshark, and extracts the source and destination IP addresses of each packet. Then, it uses the GeoIP database to retrieve location information (longitude and latitude) of each IP address. Finally, it creates a KML (Keyhole Markup Language) file containing the coordinates of each IP address, which can be used to display the IP addresses on a map.
 
